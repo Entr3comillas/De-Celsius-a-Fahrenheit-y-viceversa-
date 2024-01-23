@@ -1,0 +1,1 @@
+Este programa solicita al usuario que elija la dirección de la conversión (Celsius a Fahrenheit o Fahrenheit a Celsius) e ingrese la temperatura correspondiente. Luego, realiza la conversión y muestra el resultado. Ten en cuenta que este código asume que la entrada del usuario será válida y no realiza una gestión exhaustiva de errores.
